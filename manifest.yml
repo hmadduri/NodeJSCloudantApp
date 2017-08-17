@@ -1,5 +1,5 @@
 declared-services:
-  cloudant-nodejs:
+  Cloudant-NoSQL-DB-nr:
     label: cloudantNoSQLDB
     plan: Shared
 applications:

@@ -7,8 +7,8 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: NodeJSCloudantSampleApp
-  host: NodeJSCloudantSampleApp
+  name: NodeJSCloudantApp
+  host: NodeJSCloudantApp
   disk_quota: 1024M
   services:
   - cloudant-nodejs
